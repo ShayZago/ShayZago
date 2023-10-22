@@ -1,4 +1,4 @@
-<img width=100% src="https://a.imagem.app/oK5El3.png">
+<img width=100% src="https://a.imagem.app/oKgHHr.png">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6F9765&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Shayenne+Zago;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -15,7 +15,9 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
+ <br>
+
 <div align="center">
- <img src="https://a.imagem.app/oK92eP.gif" width="300" height="150" />
+ <img src="https://a.imagem.app/oKg390.gif" width="300" height="150" />
 </div>
-<img width=100% src="https://a.imagem.app/oK5El3.png">
+<img width=100% src="https://a.imagem.app/oKgHHr.png">
