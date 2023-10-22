@@ -1,6 +1,6 @@
 <img width=100% src="https://a.imagem.app/oK5El3.png">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tilt+Neon&weight=900&size=25&duration=4500&pause=900&color=6F9765&center=true&vCenter=true&random=false&width=435&lines=HELLO%2C+My+Name+is+Shayenne)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6F9765&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Shayenne+Zago;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shayzago&bg_color=0d1117&color=6B8E23&line=6B8E23&point=9ACD32&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
