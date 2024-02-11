@@ -46,3 +46,7 @@
  <img src="https://a.imagem.app/oKg390.gif" width="300" height="150" />
 </div>
 <img width=100% src="https://a.imagem.app/oKgHHr.png">
+
+<br>
+
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/shayzago/count.svg" /></p>
