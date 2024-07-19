@@ -9,7 +9,7 @@
 <br>
 
 <h2 align="center">Sobre mim</h2>
-<p>🌿Me chamo Shayenne, moro em SP.<br>🌿Eu amo ler livros e adoro a natureza.<br>🌿Sou formada em Análise e Desenvolvimento de Sistemas na Anhanguera-SP.<br>🌿Estou estudando frequentemente para alcançar o meu sucesso no desenvolvimento front-end. </p>
+<p>🌿Me chamo Shayenne, moro em SP.<br>🌿Sou formada em Análise e Desenvolvimento de Sistemas na Anhanguera-SP.<br>🌿Eu amo ler livros e adoro a natureza.<br>🌿Estou estudando frequentemente para alcançar o meu sucesso no desenvolvimento front-end. </p>
 
 <br>
 
@@ -18,7 +18,7 @@
 <div align="center">
 <a><img src="https://img.shields.io/badge/-HTML-%23333?style=for-the-badge&logo=html5&logoColor=white"</a>
 <a><img src="https://img.shields.io/badge/-CSS-%23333?style=for-the-badge&logo=css3&logoColor=white"</a>
-<a><img src="https://img.shields.io/badge/-Javascript-%23333?style=for-the-badge&logo=git&logoColor=white"</a>
+<a><img src="https://img.shields.io/badge/-Javascript-%23333?style=for-the-badge&logo=javascript&logoColor=white"</a>
 <a><img src="https://img.shields.io/badge/-Git-%23333?style=for-the-badge&logo=git&logoColor=white"</a>
 </div>
   
